@@ -1,0 +1,28 @@
+table, th, td{
+    /* to have only horizontal line, you use border-bottom */
+
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+    border-color: #96d4d9;
+}
+
+table{
+    width: 55%;
+    font-size: 20px;
+    margin: auto ;
+    text-align: center;
+}
+
+td, th{
+    padding: 10px;
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.fa-solid{
+    background-color: rgb(33, 233, 33);
+    
+}
